@@ -1,0 +1,24 @@
+id: IACD4469E
+initial_creation_type: ebook
+source_metadata:
+  id: MIN-TC-05-1
+  title: ༄༅། །ཟབ་པ་དང་རྒྱ་ཆེ་བའི་དམ་པའི་ཆོས་ཀྱི་ཐོབ་ཡིག་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  author: མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  authors: &id001
+  - མཛད་པ་པོ། སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ།
+  sku: MIN-TC-05-1
+  cover: MIN-TC-05-1.jpg
+  volume: {}
+ebook_metadata:
+  title: ༄༅། །ཟབ་པ་དང་རྒྱ་ཆེ་བའི་དམ་པའི་ཆོས་ཀྱི་ཐོབ་ཡིག་རིན་ཆེན་འབྱུང་གནས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors: *id001
+  sku: MIN-TC-05-1
+  cover: MIN-TC-05-1.jpg
+layers:
+- Author
+- BookTitle
+- Chapter
+- Commentary
+- Yigchung
